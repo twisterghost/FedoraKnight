@@ -1,7 +1,7 @@
 FedoraKnight
 ============
 
-FedoraKnight watches over your favorite subreddits' /new section and keeps tabs on the posts. See new posts come in from your command line with easy access to the links, content and information within the posts. Help contribute to your favorite communities by joining the "Knights of /new" in filtering the content and responding to posts.
+FedoraKnight watches over your favorite subreddit's /new section and keeps tabs on the posts. See new posts come in from your command line with easy access to the links, content and information within the posts. Help contribute to your favorite communities by joining the "Knights of /new" in filtering the content and responding to posts.
 
 # How-To
 
