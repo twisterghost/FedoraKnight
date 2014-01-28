@@ -5,16 +5,16 @@ FedoraKnight watches over your favorite subreddits' /new section and keeps tabs 
 
 # How-To
 
-## Clone the repo
+### Clone the repo
 `git clone https://github.com/twisterghost/FedoraKnight.git`
 
-## Install the dependencies
+### Install the dependencies
 `npm install`
 
-## Run FedoraKnight
+### Run FedoraKnight
 `node fedoraknight`
 
-## Give it a specific subreddit
+### Give it a specific subreddit
 `node fedoraknight --subreddit pics`
 
 # Contribute
